@@ -21,18 +21,23 @@ Somos a **CodePoint**, uma software house de dois sócios que acredita que tecno
 
 Já estamos trabalhando com clientes reais e, ao mesmo tempo, construindo a base da empresa. A casa está sendo construída com a gente morando nela. 🏗️
 
+<!-- Fotos recortadas em círculo pelo images.weserv.nl (o GitHub não aceita CSS no README). Para trocar uma foto, mude só o valor depois de "url=". -->
 <table align="center">
   <tr>
-    <td align="center" width="240">
-      <img src="https://github.com/user-attachments/assets/56685d83-cc33-4161-a14d-c6d5fafbdc66" width="160" alt="foto-3" style="border-radius: 50%;" /><br />
-      <b>CTO</b>
+    <td align="center" valign="middle" width="220">
+      <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/56685d83-cc33-4161-a14d-c6d5fafbdc66&w=400&h=400&fit=cover&a=attention&mask=circle" width="150" alt="CTO da CodePoint" />
+      <br /><b>Stefani</b>
+      <br /><sub>CTO</sub>
     </td>
-    <td align="center" width="240">
-      <img src="https://github.com/user-attachments/assets/e80df85b-84dd-4f40-8a89-87017d2dbc9c" width="160" alt="foto-1" style="border-radius: 50%;" />
+    <td align="center" valign="middle" width="260">
+      <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/e80df85b-84dd-4f40-8a89-87017d2dbc9c&w=500&h=500&fit=cover&a=attention&mask=circle" width="210" alt="Os dois sócios da CodePoint" />
+      <br /><b>Luvizotto & Borges</b>
+      <br /><sub>Os dois por trás da CodePoint</sub>
     </td>
-    <td align="center" width="240">
-      <img src="https://github.com/user-attachments/assets/b2d6be83-1f49-4407-85d5-4a56e11c3039" width="160" alt="foto-2" style="border-radius: 50%;" /><br />
-      <b>CEO</b>
+    <td align="center" valign="middle" width="220">
+      <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/b2d6be83-1f49-4407-85d5-4a56e11c3039&w=400&h=400&fit=cover&a=attention&mask=circle" width="150" alt="CEO da CodePoint" />
+      <br /><b>Jonatas</b>
+      <br /><sub>CEO</sub>
     </td>
   </tr>
 </table>
