@@ -23,14 +23,16 @@ Já estamos trabalhando com clientes reais e, ao mesmo tempo, construindo a base
 
 <table align="center">
   <tr>
-    <td align="center" width="220">
-      <img src="https://github.com/user-attachments/assets/e80df85b-84dd-4f40-8a89-87017d2dbc9c" width="140" alt="foto-1" />
+    <td align="center" width="240">
+      <img src="https://github.com/user-attachments/assets/56685d83-cc33-4161-a14d-c6d5fafbdc66" width="160" alt="foto-3" style="border-radius: 50%;" /><br />
+      <b>CTO</b>
     </td>
-    <td align="center" width="220">
-      <img src="https://github.com/user-attachments/assets/b2d6be83-1f49-4407-85d5-4a56e11c3039" width="140" alt="foto-2" />
+    <td align="center" width="240">
+      <img src="https://github.com/user-attachments/assets/e80df85b-84dd-4f40-8a89-87017d2dbc9c" width="160" alt="foto-1" style="border-radius: 50%;" />
     </td>
-    <td align="center" width="220">
-      <img src="https://github.com/user-attachments/assets/56685d83-cc33-4161-a14d-c6d5fafbdc66" width="140" alt="foto-3" />
+    <td align="center" width="240">
+      <img src="https://github.com/user-attachments/assets/b2d6be83-1f49-4407-85d5-4a56e11c3039" width="160" alt="foto-2" style="border-radius: 50%;" /><br />
+      <b>CEO</b>
     </td>
   </tr>
 </table>
