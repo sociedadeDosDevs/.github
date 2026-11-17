@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ## 👋 Quem somos
 
 Somos a **CodePoint**, uma software house de dois sócios que acredita que tecnologia boa é a que resolve o problema de quem usa, não a que impressiona só quem programou.
@@ -36,8 +34,6 @@ Já estamos trabalhando com clientes reais e, ao mesmo tempo, construindo a base
   <b>Stefani</b>, CTO &nbsp;·&nbsp; <b>Luvizotto & Borges</b> &nbsp;·&nbsp; <b>Jonatas</b>, CEO
 </p>
 
----
-
 ## 🛠️ O que fazemos
 
 Criamos software sob medida para **pequenos e médios negócios** e **profissionais autônomos**:
@@ -55,8 +51,6 @@ Criamos software sob medida para **pequenos e médios negócios** e **profission
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
-
 ## 🤝 Como trabalhamos
 
 1. **☕ Conversa:** ouvimos o seu negócio e o que você quer resolver.
@@ -67,8 +61,6 @@ Criamos software sob medida para **pequenos e médios negócios** e **profission
 
 O nosso diferencial é o **cuidado com o cliente**: você não é um número de ticket.
 
----
-
 ## 📦 Projetos entregues
 
 ### 🚗 [Serra Experience](https://www.serraexperience.com.br)
@@ -77,7 +69,6 @@ Plataforma de motoristas particulares verificados em Nova Friburgo e na Serra Ca
 ### 🏡 [Sucesso Temporada e Turismo](https://www.sucessotemporada.com.br)
 Plataforma de aluguel de imóveis por temporada, com propriedades verificadas e acompanhamento durante a estadia. Conecta hóspedes e proprietários.
 
----
 
 ## 📬 Vamos conversar?
 
@@ -93,12 +84,11 @@ Tem uma ideia ou um sistema que precisa de ajuda? A primeira conversa é por nos
 
 -->
 
----
 
 <div align="center">
 
 **CodePoint** · Software sob medida, feito com cuidado.
 
-<sub>© 2026 CodePoint. Todos os direitos reservados.</sub>
+<!-- <sub>© 2026 CodePoint. Todos os direitos reservados.</sub> -->
 
 </div>
