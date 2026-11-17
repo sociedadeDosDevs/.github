@@ -17,26 +17,38 @@
 
 ## 👋 Quem somos
 
-Somos a **CodePoint**, uma software house formada por dois sócios, **Luvizotto** e **Borges**, que acreditam que tecnologia boa é aquela que resolve o problema de quem usa, não a que impressiona só quem programou.
+Somos a **CodePoint**, uma software house de dois sócios que acredita que tecnologia boa é a que resolve o problema de quem usa, não a que impressiona só quem programou.
 
-Já estamos de mãos na massa, desenvolvendo projetos para clientes reais, e ao mesmo tempo construindo a base da empresa: nossa identidade visual, nossos processos e a forma como queremos trabalhar. Sim, a casa está sendo construída com a gente morando nela. 🏗️
+Já estamos trabalhando com clientes reais e, ao mesmo tempo, construindo a base da empresa. A casa está sendo construída com a gente morando nela. 🏗️
 
-> 💡 **Em uma frase:** olhamos para o seu negócio e criamos o software certo para ele, em vez de empurrar um modelo pronto que "quase serve".
+<!-- TODO: colocar as fotos em assets/ (mesmo enquadramento e tamanho nas duas) e preencher nome e função -->
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <img src="<img width="615" height="769" alt="image" src="https://github.com/user-attachments/assets/0a17c62e-61e2-42fa-b30c-75a66199c91f" />
+" width="140" alt="[Nome do sócio 1]" /><br />
+      <b>[Nome completo]</b><br />
+      <sub>[Função, ex.: Desenvolvedor(a) Full Stack]</sub>
+    </td>
+    <td align="center" width="220">
+      <img src="<img width="1025" height="769" alt="image" src="https://github.com/user-attachments/assets/23e022fa-4db3-4f19-b181-4d16f8b1bc79" />
+" width="140" alt="[Nome do sócio 2]" /><br />
+      <b>[Nome completo]</b><br />
+      <sub>[Função, ex.: Desenvolvedor(a) Full Stack]</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ O que fazemos
 
-Pensamos em soluções para **pequenos e médios negócios** e **profissionais autônomos**, que merecem um software bom sem precisar de um time gigante por trás.
+Criamos software sob medida para **pequenos e médios negócios** e **profissionais autônomos**:
 
-| Para quem não é de tecnologia | Para quem é 🤓 |
-|---|---|
-| **Sites e páginas** que apresentam bem o seu trabalho | Front-end moderno com Vue.js e TypeScript |
-| **Sistemas sob medida** para organizar a rotina do seu negócio | APIs e back-ends em Node.js e PHP |
-| **Conexão entre sistemas** que hoje não conversam entre si | Integrações com APIs, filas e serviços de terceiros |
-| **Cuidado com o que já existe**: ajustes, melhorias e manutenção | Evolução e manutenção de sistemas legados |
-
-### Tecnologias que usamos no dia a dia
+- 🌐 **Sites e plataformas** que apresentam bem o seu trabalho
+- ⚙️ **Sistemas sob medida** para organizar a rotina do seu negócio
+- 🔗 **Integrações** entre sistemas que hoje não conversam entre si
+- 🔧 **Manutenção e evolução** de sistemas que já existem
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,56 +57,36 @@ Pensamos em soluções para **pequenos e médios negócios** e **profissionais a
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🤝 Como trabalhamos
 
-Nosso processo é simples de propósito. Você sabe onde está, o que vem a seguir e com quem falar.
+1. **☕ Conversa:** ouvimos o seu negócio e o que você quer resolver.
+2. **🧭 Proposta:** um plano claro, com etapas e prazos, sem letra miúda.
+3. **🔨 Construção:** entregas em partes, para você acompanhar e opinar no caminho.
+4. **🚀 Entrega:** o sistema vai ao ar testado e você aprende a usá-lo.
+5. **🌱 Acompanhamento:** ficamos por perto para ajustar e evoluir.
 
-1. **☕ Conversa**
-   Começamos ouvindo. Qual é o seu negócio, onde dói, o que você gostaria que fosse mais fácil?
-
-2. **🧭 Entendimento e proposta**
-   Transformamos a conversa em um plano claro: o que será feito, em quais etapas e em quanto tempo. Sem juridiquês e sem letra miúda.
-
-3. **🔨 Construção em etapas**
-   Entregamos em partes, para você ver o projeto crescendo e opinar no caminho, não só no final.
-
-4. **🚀 Entrega**
-   O sistema vai ao ar testado, e você aprende a usá-lo.
-
-5. **🌱 Acompanhamento**
-   Software vive e muda. Ficamos por perto para ajustar, evoluir e manter tudo funcionando.
-
-### O que guia o nosso código
-
-- **Clareza antes de tudo.** Código e conversa que qualquer pessoa da equipe consegue entender.
-- **Segurança desde o início.** Credenciais e dados sensíveis tratados com seriedade, nunca soltos por aí.
-- **Qualidade que dura.** Código organizado, tipado e versionado, para o projeto não virar um quebra-cabeça daqui a seis meses.
-- **Cuidado com o cliente.** Esse é o nosso diferencial: você não é um número de ticket.
+O nosso diferencial é o **cuidado com o cliente**: você não é um número de ticket.
 
 ---
 
 ## 📦 Projetos entregues
 
-> 🚧 Esta seção está crescendo junto com a empresa. Estamos sempre pedindo autorização aos clientes antes de divulgar qualquer projeto.
+### 🚗 [Serra Experience](https://www.serraexperience.com.br)
+Plataforma de motoristas particulares verificados em Nova Friburgo e na Serra Carioca, com transfers, city tours e viagens personalizadas. O cliente pede orçamento direto pelo site.
 
-<!-- TODO: preencher conforme os clientes autorizarem. Modelo abaixo. -->
-
-| Projeto | O que é | Tecnologias |
-|---|---|---|
-| **[Nome do projeto]** | [Descrição curta, em linguagem simples, do problema que resolveu] | [Stack] |
-| **[Nome do projeto]** | [Descrição curta] | [Stack] |
+### 🏡 [Sucesso Temporada e Turismo](https://www.sucessotemporada.com.br)
+Plataforma de aluguel de imóveis por temporada, com propriedades verificadas e acompanhamento durante a estadia. Conecta hóspedes e proprietários.
 
 ---
 
 ## 📬 Vamos conversar?
 
-Tem uma ideia, um sistema que precisa de ajuda ou só quer entender se a gente pode te ajudar? A primeira conversa é por nossa conta. ☕
+Tem uma ideia ou um sistema que precisa de ajuda? A primeira conversa é por nossa conta. ☕
 
-<!-- TODO: preencher com os dados reais 
+<!-- TODO: descomentar e preencher quando tiver os dados reais
 
 - 📧 **E-mail:** [contato@seudominio.com.br]
 - 💬 **WhatsApp:** [(00) 00000-0000]
@@ -102,8 +94,10 @@ Tem uma ideia, um sistema que precisa de ajuda ou só quer entender se a gente p
 - 💼 **LinkedIn:** [link da empresa]
 - 📸 **Instagram:** [@seuperfil]
 
----
 -->
+
+---
+
 <div align="center">
 
 **CodePoint** · Software sob medida, feito com cuidado.
