@@ -3,7 +3,8 @@
 
 # `</>` CodePoint
 
-**Grandes ideias não precisam ficar só no papel.**
+<!-- Texto animado (readme-typing-svg). Para mudar as frases, edite o que vem depois de "lines=", separando por ";" e usando "+" no lugar de espaço. -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&height=40&lines=Grandes+ideias+n%C3%A3o+precisam+ficar+s%C3%B3+no+papel.;Software+sob+medida+para+o+seu+neg%C3%B3cio.;Cuidado+de+verdade+com+cada+cliente." alt="Grandes ideias não precisam ficar só no papel." />
 
 *A gente escuta o seu negócio, entende o seu problema e constrói o software que cabe nele.*
 
@@ -22,25 +23,18 @@ Somos a **CodePoint**, uma software house de dois sócios que acredita que tecno
 Já estamos trabalhando com clientes reais e, ao mesmo tempo, construindo a base da empresa. A casa está sendo construída com a gente morando nela. 🏗️
 
 <!-- Fotos recortadas em círculo pelo images.weserv.nl (o GitHub não aceita CSS no README). Para trocar uma foto, mude só o valor depois de "url=". -->
-<table align="center">
-  <tr>
-    <td align="center" valign="middle" width="220">
-      <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/56685d83-cc33-4161-a14d-c6d5fafbdc66&w=400&h=400&fit=cover&a=attention&mask=circle" width="150" alt="CTO da CodePoint" />
-      <br /><b>Stefani</b>
-      <br /><sub>CTO</sub>
-    </td>
-    <td align="center" valign="middle" width="260">
-      <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/e80df85b-84dd-4f40-8a89-87017d2dbc9c&w=500&h=500&fit=cover&a=attention&mask=circle" width="210" alt="Os dois sócios da CodePoint" />
-      <br /><b>Luvizotto & Borges</b>
-      <br /><sub>Os dois por trás da CodePoint</sub>
-    </td>
-    <td align="center" valign="middle" width="220">
-      <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/b2d6be83-1f49-4407-85d5-4a56e11c3039&w=400&h=400&fit=cover&a=attention&mask=circle" width="150" alt="CEO da CodePoint" />
-      <br /><b>Jonatas</b>
-      <br /><sub>CEO</sub>
-    </td>
-  </tr>
-</table>
+<!-- Sem <table>: o GitHub desenha borda em toda tabela e não dá para remover. Imagens soltas ficam sem moldura. -->
+<p align="center">
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/56685d83-cc33-4161-a14d-c6d5fafbdc66&w=400&h=400&fit=cover&a=attention&mask=circle" width="150" align="middle" alt="CTO da CodePoint" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/e80df85b-84dd-4f40-8a89-87017d2dbc9c&w=500&h=500&fit=cover&a=attention&mask=circle" width="210" align="middle" alt="Os dois sócios da CodePoint" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://images.weserv.nl/?url=https://github.com/user-attachments/assets/b2d6be83-1f49-4407-85d5-4a56e11c3039&w=400&h=400&fit=cover&a=attention&mask=circle" width="150" align="middle" alt="CEO da CodePoint" />
+</p>
+
+<p align="center">
+  <b>Stefani</b>, CTO &nbsp;·&nbsp; <b>Luvizotto & Borges</b> &nbsp;·&nbsp; <b>Jonatas</b>, CEO
+</p>
 
 ---
 
