@@ -21,20 +21,16 @@ Somos a **CodePoint**, uma software house de dois sócios que acredita que tecno
 
 Já estamos trabalhando com clientes reais e, ao mesmo tempo, construindo a base da empresa. A casa está sendo construída com a gente morando nela. 🏗️
 
-<!-- TODO: colocar as fotos em assets/ (mesmo enquadramento e tamanho nas duas) e preencher nome e função -->
 <table align="center">
   <tr>
     <td align="center" width="220">
-      <img src="<img width="615" height="769" alt="image" src="https://github.com/user-attachments/assets/0a17c62e-61e2-42fa-b30c-75a66199c91f" />
-" width="140" alt="[Nome do sócio 1]" /><br />
-      <b>[Nome completo]</b><br />
-      <sub>[Função, ex.: Desenvolvedor(a) Full Stack]</sub>
+      <img src="https://github.com/user-attachments/assets/e80df85b-84dd-4f40-8a89-87017d2dbc9c" width="140" alt="foto-1" />
     </td>
     <td align="center" width="220">
-      <img src="<img width="1025" height="769" alt="image" src="https://github.com/user-attachments/assets/23e022fa-4db3-4f19-b181-4d16f8b1bc79" />
-" width="140" alt="[Nome do sócio 2]" /><br />
-      <b>[Nome completo]</b><br />
-      <sub>[Função, ex.: Desenvolvedor(a) Full Stack]</sub>
+      <img src="https://github.com/user-attachments/assets/b2d6be83-1f49-4407-85d5-4a56e11c3039" width="140" alt="foto-2" />
+    </td>
+    <td align="center" width="220">
+      <img src="https://github.com/user-attachments/assets/56685d83-cc33-4161-a14d-c6d5fafbdc66" width="140" alt="foto-3" />
     </td>
   </tr>
 </table>
